@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.nttdata.nttdata.javat1"},{"l":"nttdata.javat1.game"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.nttdata.nttdatacentersjavat1JCO"},{"l":"nttdata.nttdatacentersjavat1JCO.game"}];updateSearchResults();
